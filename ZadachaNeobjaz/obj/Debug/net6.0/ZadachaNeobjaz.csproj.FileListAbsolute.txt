@@ -1,0 +1,15 @@
+C:\Users\Елена\Desktop\Zadacha\ZadachaNeobjaz\obj\Debug\net6.0\ZadachaNeobjaz.csproj.AssemblyReference.cache
+C:\Users\Елена\Desktop\Zadacha\ZadachaNeobjaz\obj\Debug\net6.0\ZadachaNeobjaz.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Елена\Desktop\Zadacha\ZadachaNeobjaz\obj\Debug\net6.0\ZadachaNeobjaz.AssemblyInfoInputs.cache
+C:\Users\Елена\Desktop\Zadacha\ZadachaNeobjaz\obj\Debug\net6.0\ZadachaNeobjaz.AssemblyInfo.cs
+C:\Users\Елена\Desktop\Zadacha\ZadachaNeobjaz\obj\Debug\net6.0\ZadachaNeobjaz.csproj.CoreCompileInputs.cache
+C:\Users\Елена\Desktop\Zadacha\ZadachaNeobjaz\bin\Debug\net6.0\ZadachaNeobjaz.exe
+C:\Users\Елена\Desktop\Zadacha\ZadachaNeobjaz\bin\Debug\net6.0\ZadachaNeobjaz.deps.json
+C:\Users\Елена\Desktop\Zadacha\ZadachaNeobjaz\bin\Debug\net6.0\ZadachaNeobjaz.runtimeconfig.json
+C:\Users\Елена\Desktop\Zadacha\ZadachaNeobjaz\bin\Debug\net6.0\ZadachaNeobjaz.dll
+C:\Users\Елена\Desktop\Zadacha\ZadachaNeobjaz\bin\Debug\net6.0\ZadachaNeobjaz.pdb
+C:\Users\Елена\Desktop\Zadacha\ZadachaNeobjaz\obj\Debug\net6.0\ZadachaNeobjaz.dll
+C:\Users\Елена\Desktop\Zadacha\ZadachaNeobjaz\obj\Debug\net6.0\refint\ZadachaNeobjaz.dll
+C:\Users\Елена\Desktop\Zadacha\ZadachaNeobjaz\obj\Debug\net6.0\ZadachaNeobjaz.pdb
+C:\Users\Елена\Desktop\Zadacha\ZadachaNeobjaz\obj\Debug\net6.0\ZadachaNeobjaz.genruntimeconfig.cache
+C:\Users\Елена\Desktop\Zadacha\ZadachaNeobjaz\obj\Debug\net6.0\ref\ZadachaNeobjaz.dll

@@ -1,0 +1,15 @@
+C:\Users\Елена\Desktop\Zadacha\Zadach_15\obj\Debug\net6.0\Zadach_15.csproj.AssemblyReference.cache
+C:\Users\Елена\Desktop\Zadacha\Zadach_15\obj\Debug\net6.0\Zadach_15.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Елена\Desktop\Zadacha\Zadach_15\obj\Debug\net6.0\Zadach_15.AssemblyInfoInputs.cache
+C:\Users\Елена\Desktop\Zadacha\Zadach_15\obj\Debug\net6.0\Zadach_15.AssemblyInfo.cs
+C:\Users\Елена\Desktop\Zadacha\Zadach_15\obj\Debug\net6.0\Zadach_15.csproj.CoreCompileInputs.cache
+C:\Users\Елена\Desktop\Zadacha\Zadach_15\bin\Debug\net6.0\Zadach_15.exe
+C:\Users\Елена\Desktop\Zadacha\Zadach_15\bin\Debug\net6.0\Zadach_15.deps.json
+C:\Users\Елена\Desktop\Zadacha\Zadach_15\bin\Debug\net6.0\Zadach_15.runtimeconfig.json
+C:\Users\Елена\Desktop\Zadacha\Zadach_15\bin\Debug\net6.0\Zadach_15.dll
+C:\Users\Елена\Desktop\Zadacha\Zadach_15\bin\Debug\net6.0\Zadach_15.pdb
+C:\Users\Елена\Desktop\Zadacha\Zadach_15\obj\Debug\net6.0\Zadach_15.dll
+C:\Users\Елена\Desktop\Zadacha\Zadach_15\obj\Debug\net6.0\refint\Zadach_15.dll
+C:\Users\Елена\Desktop\Zadacha\Zadach_15\obj\Debug\net6.0\Zadach_15.pdb
+C:\Users\Елена\Desktop\Zadacha\Zadach_15\obj\Debug\net6.0\Zadach_15.genruntimeconfig.cache
+C:\Users\Елена\Desktop\Zadacha\Zadach_15\obj\Debug\net6.0\ref\Zadach_15.dll
