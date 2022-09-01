@@ -1,0 +1,15 @@
+C:\Users\Елена\Desktop\Zadacha\Zadacha_19_HARD\bin\Debug\net6.0\Zadacha_19_HARD.exe
+C:\Users\Елена\Desktop\Zadacha\Zadacha_19_HARD\bin\Debug\net6.0\Zadacha_19_HARD.deps.json
+C:\Users\Елена\Desktop\Zadacha\Zadacha_19_HARD\bin\Debug\net6.0\Zadacha_19_HARD.runtimeconfig.json
+C:\Users\Елена\Desktop\Zadacha\Zadacha_19_HARD\bin\Debug\net6.0\Zadacha_19_HARD.dll
+C:\Users\Елена\Desktop\Zadacha\Zadacha_19_HARD\bin\Debug\net6.0\Zadacha_19_HARD.pdb
+C:\Users\Елена\Desktop\Zadacha\Zadacha_19_HARD\obj\Debug\net6.0\Zadacha_19_HARD.csproj.AssemblyReference.cache
+C:\Users\Елена\Desktop\Zadacha\Zadacha_19_HARD\obj\Debug\net6.0\Zadacha_19_HARD.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Елена\Desktop\Zadacha\Zadacha_19_HARD\obj\Debug\net6.0\Zadacha_19_HARD.AssemblyInfoInputs.cache
+C:\Users\Елена\Desktop\Zadacha\Zadacha_19_HARD\obj\Debug\net6.0\Zadacha_19_HARD.AssemblyInfo.cs
+C:\Users\Елена\Desktop\Zadacha\Zadacha_19_HARD\obj\Debug\net6.0\Zadacha_19_HARD.csproj.CoreCompileInputs.cache
+C:\Users\Елена\Desktop\Zadacha\Zadacha_19_HARD\obj\Debug\net6.0\Zadacha_19_HARD.dll
+C:\Users\Елена\Desktop\Zadacha\Zadacha_19_HARD\obj\Debug\net6.0\refint\Zadacha_19_HARD.dll
+C:\Users\Елена\Desktop\Zadacha\Zadacha_19_HARD\obj\Debug\net6.0\Zadacha_19_HARD.pdb
+C:\Users\Елена\Desktop\Zadacha\Zadacha_19_HARD\obj\Debug\net6.0\Zadacha_19_HARD.genruntimeconfig.cache
+C:\Users\Елена\Desktop\Zadacha\Zadacha_19_HARD\obj\Debug\net6.0\ref\Zadacha_19_HARD.dll

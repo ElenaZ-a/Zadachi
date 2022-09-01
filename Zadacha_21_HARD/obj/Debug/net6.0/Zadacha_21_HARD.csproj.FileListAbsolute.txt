@@ -1,0 +1,15 @@
+C:\Users\Елена\Desktop\Zadacha\Zadacha_21_HARD\obj\Debug\net6.0\Zadacha_21_HARD.csproj.AssemblyReference.cache
+C:\Users\Елена\Desktop\Zadacha\Zadacha_21_HARD\obj\Debug\net6.0\Zadacha_21_HARD.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Елена\Desktop\Zadacha\Zadacha_21_HARD\obj\Debug\net6.0\Zadacha_21_HARD.AssemblyInfoInputs.cache
+C:\Users\Елена\Desktop\Zadacha\Zadacha_21_HARD\obj\Debug\net6.0\Zadacha_21_HARD.AssemblyInfo.cs
+C:\Users\Елена\Desktop\Zadacha\Zadacha_21_HARD\obj\Debug\net6.0\Zadacha_21_HARD.csproj.CoreCompileInputs.cache
+C:\Users\Елена\Desktop\Zadacha\Zadacha_21_HARD\bin\Debug\net6.0\Zadacha_21_HARD.exe
+C:\Users\Елена\Desktop\Zadacha\Zadacha_21_HARD\bin\Debug\net6.0\Zadacha_21_HARD.deps.json
+C:\Users\Елена\Desktop\Zadacha\Zadacha_21_HARD\bin\Debug\net6.0\Zadacha_21_HARD.runtimeconfig.json
+C:\Users\Елена\Desktop\Zadacha\Zadacha_21_HARD\bin\Debug\net6.0\Zadacha_21_HARD.dll
+C:\Users\Елена\Desktop\Zadacha\Zadacha_21_HARD\bin\Debug\net6.0\Zadacha_21_HARD.pdb
+C:\Users\Елена\Desktop\Zadacha\Zadacha_21_HARD\obj\Debug\net6.0\Zadacha_21_HARD.dll
+C:\Users\Елена\Desktop\Zadacha\Zadacha_21_HARD\obj\Debug\net6.0\refint\Zadacha_21_HARD.dll
+C:\Users\Елена\Desktop\Zadacha\Zadacha_21_HARD\obj\Debug\net6.0\Zadacha_21_HARD.pdb
+C:\Users\Елена\Desktop\Zadacha\Zadacha_21_HARD\obj\Debug\net6.0\Zadacha_21_HARD.genruntimeconfig.cache
+C:\Users\Елена\Desktop\Zadacha\Zadacha_21_HARD\obj\Debug\net6.0\ref\Zadacha_21_HARD.dll
