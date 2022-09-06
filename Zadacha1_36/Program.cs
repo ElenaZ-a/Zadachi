@@ -42,3 +42,4 @@ namespace Zadacha_36
         }
     }
 }
+
