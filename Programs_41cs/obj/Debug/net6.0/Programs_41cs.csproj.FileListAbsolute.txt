@@ -1,0 +1,15 @@
+C:\Users\Елена\Desktop\Zadacha\Programs_41cs\bin\Debug\net6.0\Programs_41cs.exe
+C:\Users\Елена\Desktop\Zadacha\Programs_41cs\bin\Debug\net6.0\Programs_41cs.deps.json
+C:\Users\Елена\Desktop\Zadacha\Programs_41cs\bin\Debug\net6.0\Programs_41cs.runtimeconfig.json
+C:\Users\Елена\Desktop\Zadacha\Programs_41cs\bin\Debug\net6.0\Programs_41cs.dll
+C:\Users\Елена\Desktop\Zadacha\Programs_41cs\bin\Debug\net6.0\Programs_41cs.pdb
+C:\Users\Елена\Desktop\Zadacha\Programs_41cs\obj\Debug\net6.0\Programs_41cs.csproj.AssemblyReference.cache
+C:\Users\Елена\Desktop\Zadacha\Programs_41cs\obj\Debug\net6.0\Programs_41cs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Елена\Desktop\Zadacha\Programs_41cs\obj\Debug\net6.0\Programs_41cs.AssemblyInfoInputs.cache
+C:\Users\Елена\Desktop\Zadacha\Programs_41cs\obj\Debug\net6.0\Programs_41cs.AssemblyInfo.cs
+C:\Users\Елена\Desktop\Zadacha\Programs_41cs\obj\Debug\net6.0\Programs_41cs.csproj.CoreCompileInputs.cache
+C:\Users\Елена\Desktop\Zadacha\Programs_41cs\obj\Debug\net6.0\Programs_41cs.dll
+C:\Users\Елена\Desktop\Zadacha\Programs_41cs\obj\Debug\net6.0\refint\Programs_41cs.dll
+C:\Users\Елена\Desktop\Zadacha\Programs_41cs\obj\Debug\net6.0\Programs_41cs.pdb
+C:\Users\Елена\Desktop\Zadacha\Programs_41cs\obj\Debug\net6.0\Programs_41cs.genruntimeconfig.cache
+C:\Users\Елена\Desktop\Zadacha\Programs_41cs\obj\Debug\net6.0\ref\Programs_41cs.dll
