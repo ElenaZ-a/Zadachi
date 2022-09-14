@@ -1,0 +1,15 @@
+C:\Users\Елена\Desktop\Zadacha\HardSortcs\bin\Debug\net6.0\HardSortcs.exe
+C:\Users\Елена\Desktop\Zadacha\HardSortcs\bin\Debug\net6.0\HardSortcs.deps.json
+C:\Users\Елена\Desktop\Zadacha\HardSortcs\bin\Debug\net6.0\HardSortcs.runtimeconfig.json
+C:\Users\Елена\Desktop\Zadacha\HardSortcs\bin\Debug\net6.0\HardSortcs.dll
+C:\Users\Елена\Desktop\Zadacha\HardSortcs\bin\Debug\net6.0\HardSortcs.pdb
+C:\Users\Елена\Desktop\Zadacha\HardSortcs\obj\Debug\net6.0\HardSortcs.csproj.AssemblyReference.cache
+C:\Users\Елена\Desktop\Zadacha\HardSortcs\obj\Debug\net6.0\HardSortcs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Елена\Desktop\Zadacha\HardSortcs\obj\Debug\net6.0\HardSortcs.AssemblyInfoInputs.cache
+C:\Users\Елена\Desktop\Zadacha\HardSortcs\obj\Debug\net6.0\HardSortcs.AssemblyInfo.cs
+C:\Users\Елена\Desktop\Zadacha\HardSortcs\obj\Debug\net6.0\HardSortcs.csproj.CoreCompileInputs.cache
+C:\Users\Елена\Desktop\Zadacha\HardSortcs\obj\Debug\net6.0\HardSortcs.dll
+C:\Users\Елена\Desktop\Zadacha\HardSortcs\obj\Debug\net6.0\refint\HardSortcs.dll
+C:\Users\Елена\Desktop\Zadacha\HardSortcs\obj\Debug\net6.0\HardSortcs.pdb
+C:\Users\Елена\Desktop\Zadacha\HardSortcs\obj\Debug\net6.0\HardSortcs.genruntimeconfig.cache
+C:\Users\Елена\Desktop\Zadacha\HardSortcs\obj\Debug\net6.0\ref\HardSortcs.dll
