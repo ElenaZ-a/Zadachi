@@ -1,0 +1,15 @@
+C:\Users\Елена\Desktop\Zadacha\Zadaha_60\bin\Debug\net6.0\Zadaha_60.exe
+C:\Users\Елена\Desktop\Zadacha\Zadaha_60\bin\Debug\net6.0\Zadaha_60.deps.json
+C:\Users\Елена\Desktop\Zadacha\Zadaha_60\bin\Debug\net6.0\Zadaha_60.runtimeconfig.json
+C:\Users\Елена\Desktop\Zadacha\Zadaha_60\bin\Debug\net6.0\Zadaha_60.dll
+C:\Users\Елена\Desktop\Zadacha\Zadaha_60\bin\Debug\net6.0\Zadaha_60.pdb
+C:\Users\Елена\Desktop\Zadacha\Zadaha_60\obj\Debug\net6.0\Zadaha_60.csproj.AssemblyReference.cache
+C:\Users\Елена\Desktop\Zadacha\Zadaha_60\obj\Debug\net6.0\Zadaha_60.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Елена\Desktop\Zadacha\Zadaha_60\obj\Debug\net6.0\Zadaha_60.AssemblyInfoInputs.cache
+C:\Users\Елена\Desktop\Zadacha\Zadaha_60\obj\Debug\net6.0\Zadaha_60.AssemblyInfo.cs
+C:\Users\Елена\Desktop\Zadacha\Zadaha_60\obj\Debug\net6.0\Zadaha_60.csproj.CoreCompileInputs.cache
+C:\Users\Елена\Desktop\Zadacha\Zadaha_60\obj\Debug\net6.0\Zadaha_60.dll
+C:\Users\Елена\Desktop\Zadacha\Zadaha_60\obj\Debug\net6.0\refint\Zadaha_60.dll
+C:\Users\Елена\Desktop\Zadacha\Zadaha_60\obj\Debug\net6.0\Zadaha_60.pdb
+C:\Users\Елена\Desktop\Zadacha\Zadaha_60\obj\Debug\net6.0\Zadaha_60.genruntimeconfig.cache
+C:\Users\Елена\Desktop\Zadacha\Zadaha_60\obj\Debug\net6.0\ref\Zadaha_60.dll
